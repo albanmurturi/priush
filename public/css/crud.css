@@ -1,0 +1,36 @@
+.btn-circle {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  padding: 8px 0;
+  font-size: 26px;
+  line-height: 1.42;
+  border-radius: 50%;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  /*background-color: rgb(46, 109, 164);*/
+}
+
+p.tab-space {
+	padding-right:5em;
+}
+
+p.double-tab-space {
+	padding-left:10em;
+}
+
+
+
+#flash-message {
+    bottom: 20px;
+    position: absolute;
+    right: 20px;
+    z-index: 10;
+    animation: flash-message 6s forwards;
+}
+
+@keyframes flash-message {
+    0%   {opacity: 1;}
+    100% {opacity: 0; display:none;}
+}
