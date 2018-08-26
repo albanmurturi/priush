@@ -16,7 +16,9 @@ Në pamundësi për me e gjet ose kostumizu një aplikacion i cili kish me mi plotës
 E para prej tyre është që aplikacioni ju ndihmon me u organizu dhe mendu në nivel të prioriteteve, këtë e reprezentojnë edhe tri shkronjat e para në emrin 'priush' (një emër jo edhe aq kreativ, në përgjithësi në krejt aplikacionin kam qene jo kreativ te emërtimet). Pastaj secili prioritet duhet t'i ketë degët e veta që në aplikacion ju kam thanë subcatagories(ju thash për 'kreativitetin' me emrat) dhe secila subcategory duhet të ketë shprehi/habits që në app ju kam thanë 'acts' por qe ne editimet e radhës do te ju them habits.
 Kjo natyrisht e komplikon aplikacionin por i ka edhe përparësitë e veta, siç e thash lart fillimisht ju mëson te mendoni dhe te organizoheni në nivel të prioriteteve, gjithsesi ju duhet të keni disa prioritete në jetë ose edhe disa për një periudhë të caktuar, dhe gjithsesi ti duhet të kesh disa shprehi që asociojnë me ato prioritet. P.sh. nëse shëndeti apo të jetuarit një jetë të shëndetshme është prioritet i yti, atëhere të ushqyerit shëndetshëm, aktivitetet fizike dhe gjumi i shëndoshë mund të jenë tri ndarjet e ketij prioriteti. Pastaj, te kategoria e te ushqyerit shëndetshëm mund të vinë shprehitë: kaftjall i shëndetshëm, drek e shëndetshme apo edhe MOS me hëngër një dark të pa shëndetshme, pra ju mund të vendosni edhe një 'shprehi' për ta braktisë një shprehi tjetër, pra një shprehi për ta lënë. Natyrisht ju mund të keni disa prioritete dhe secila prej tyre ka kategoritë e veta dhe secila prej kategorive ka shprehitë e veta.
 Psh pak a shumë një skemë kështu:
+
 Prioritetet:
+
 1. Familja, 2. Shëndeti, 3. Karriera
 Pastaj kategoritë te prioriteti shëndeti:
 2.1. Ushqim i shëndetshëm, 2.2 Gjumë i shëndetshëm, 2.3. Aktivitetet fizike
