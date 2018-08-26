@@ -19,15 +19,21 @@ Psh pak a shumë një skemë kështu:
 
 Prioritetet:
 
-1. Familja, 2. Shëndeti, 3. Karriera
+1. Familja,
+2. Shëndeti,
+3. Karriera
 
 Pastaj kategoritë te prioriteti shëndeti:
 
-2.1. Ushqim i shëndetshëm, 2.2 Gjumë i shëndetshëm, 2.3. Aktivitetet fizike
+2.1. Ushqim i shëndetshëm,
+2.2 Gjumë i shëndetshëm,
+2.3. Aktivitetet fizike
 
 Pastaj shprehitë nga kategoria ushqim i shëndetshëm:
 
-2.1.1. Kaftjall i shëndetshëm, 2.1.2 Drekë e shëndetshme, 2.1.3 JO një darkë e pa shëndetshme
+2.1.1. Kaftjall i shëndetshëm,
+2.1.2 Drekë e shëndetshme,
+2.1.3 JO një darkë e pa shëndetshme
 
 Një përparësi tjetër e këtij degëzimi në shikim të parë të komplikuar e tepruar është se pastaj ju mund të nxirrni raporte veç për një prioritet, pra mund të shihni si jeni duke ecur me shprehitë e vetëm një prioriteti apo edhe vetëm një nënkategorie përveç tjerash.
 
