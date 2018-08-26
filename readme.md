@@ -1,52 +1,35 @@
+## Priush
+
+Priush është një web aplikacion për menaxhim të shprehive i krijuar duke përdorur laravel 5.6.
 
 
-## About Priush
+## Përdorimi
 
-Priush is web application for habits created with Laravel.
+1. Instalo Laravel-in
+2. Ekzekutoj migrations
+3. Regjistrohu
+4. Krijo prioritetet, nënkategoritë dhe shprehitë e tua, pastaj mbaj të dhënë për kryerjen ose moskryerjen e tyre
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Filozofia e Priush
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications.
+Në pamundësi për me e gjet ose kostumizu një aplikacion i cili kish me mi plotësu kërkesat, vendosa me e ba nja vet. Aplikacioni është në ndërtim e sipër mirëpo disa dallime prej aplikacioneve tjera veç janë realizu.
+E para prej tyre është që aplikacioni ju ndihmon me u organizu dhe mendu në nivel të prioriteteve, këtë e reprezentojnë edhe tri shkronjat e para në emrin 'priush' (një emër jo edhe aq kreativ, në përgjithësi në krejt aplikacionin kam qene jo kreativ te emërtimet). Pastaj secili prioritet duhet t'i ketë degët e veta që në aplikacion ju kam thanë subcatagories(ju thash për 'kreativitetin' me emrat) dhe secila subcategory duhet të ketë shprehi/habits që në app ju kam thanë 'acts' por qe ne editimet e radhës do te ju them habits.
+Kjo natyrisht e komplikon aplikacionin por i ka edhe përparësitë e veta, siç e thash lart fillimisht ju mëson te mendoni dhe te organizoheni në nivel të prioriteteve, gjithsesi ju duhet të keni disa prioritete në jetë ose edhe disa për një periudhë të caktuar, dhe gjithsesi ti duhet të kesh disa shprehi që asociojnë me ato prioritet. P.sh. nëse shëndeti apo të jetuarit një jetë të shëndetshme është prioritet i yti, atëhere të ushqyerit shëndetshëm, aktivitetet fizike dhe gjumi i shëndoshë mund të jenë tri ndarjet e ketij prioriteti. Pastaj, te kategoria e te ushqyerit shëndetshëm mund të vinë shprehitë: kaftjall i shëndetshëm, drek e shëndetshme apo edhe MOS me hëngër një dark të pa shëndetshme, pra ju mund të vendosni edhe një 'shprehi' për ta braktisë një shprehi tjetër, pra një shprehi për ta lënë. Natyrisht ju mund të keni disa prioritete dhe secila prej tyre ka kategoritë e veta dhe secila prej kategorive ka shprehitë e veta.
+Psh pak a shumë një skemë kështu:
+Prioritetet:
+1. Familja, 2. Shëndeti, 3. Karriera
+Pastaj kategoritë te prioriteti shëndeti:
+2.1. Ushqim i shëndetshëm, 2.2 Gjumë i shëndetshëm, 2.3. Aktivitetet fizike
+Pastaj shprehitë nga kategoria ushqim i shëndetshëm:
+2.1.1. Kaftjall i shëndetshëm, 2.1.2 Drekë e shëndetshme, 2.1.3 JO një darkë e pa shëndetshme
 
-## Learning Laravel
+Një përparësi tjetër e këtij degëzimi në shikim të parë të komplikuar e tepruar është se pastaj ju mund të nxirrni raporte veç për një prioritet, pra mund të shihni si jeni duke ecur me shprehitë e vetëm një prioriteti apo edhe vetëm një nënkategorie përveç tjerash.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of any modern web application framework, making it a breeze to get started learning the framework.
+Verejtje: Aplikacioni është ende në versionin fillestar
 
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 1100 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
+## Kontakti
 
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell):
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+albanmurturi@gmail.com
 
 ## License
 
