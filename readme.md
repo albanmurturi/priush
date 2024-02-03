@@ -1,48 +1,44 @@
 ## Priush
 
-Priush është një web aplikacion për menaxhim të shprehive i krijuar duke përdorur laravel 5.6.
+Priush ï¿½shtï¿½ njï¿½ web aplikacion pï¿½r menaxhim tï¿½ shprehive i krijuar duke pï¿½rdorur laravel 5.6.
 
 
-## Përdorimi
+## Pï¿½rdorimi
 
 1. Instalo Laravel-in
 2. Ekzekutoj migrations
 3. Regjistrohu
-4. Krijo prioritetet, nënkategoritë dhe shprehitë e tua, pastaj mbaj të dhënë për kryerjen ose moskryerjen e tyre
+4. Krijo prioritetet, nï¿½nkategoritï¿½ dhe shprehitï¿½ e tua, pastaj mbaj tï¿½ dhï¿½nï¿½ pï¿½r kryerjen ose moskryerjen e tyre
 
 ## Filozofia e Priush
 
-Në pamundësi për me e gjet ose kostumizu një aplikacion i cili kish me mi plotësu kërkesat, vendosa me e ba nja vet. Aplikacioni është në ndërtim e sipër mirëpo disa dallime prej aplikacioneve tjera veç janë realizu.
-E para prej tyre është që aplikacioni ju ndihmon me u organizu dhe mendu në nivel të prioriteteve, këtë e reprezentojnë edhe tri shkronjat e para në emrin 'priush' (një emër jo edhe aq kreativ, në përgjithësi në krejt aplikacionin kam qene jo kreativ te emërtimet). Pastaj secili prioritet duhet t'i ketë degët e veta që në aplikacion ju kam thanë subcatagories(ju thash për 'kreativitetin' me emrat) dhe secila subcategory duhet të ketë shprehi/habits që në app ju kam thanë 'acts' por qe ne editimet e radhës do te ju them habits.
-Kjo natyrisht e komplikon aplikacionin por i ka edhe përparësitë e veta, siç e thash lart fillimisht ju mëson te mendoni dhe te organizoheni në nivel të prioriteteve, gjithsesi ju duhet të keni disa prioritete në jetë ose edhe disa për një periudhë të caktuar, dhe gjithsesi ti duhet të kesh disa shprehi që asociojnë me ato prioritet. P.sh. nëse shëndeti apo të jetuarit një jetë të shëndetshme është prioritet i yti, atëhere të ushqyerit shëndetshëm, aktivitetet fizike dhe gjumi i shëndoshë mund të jenë tri ndarjet e ketij prioriteti. Pastaj, te kategoria e te ushqyerit shëndetshëm mund të vinë shprehitë: kaftjall i shëndetshëm, drek e shëndetshme apo edhe MOS me hëngër një dark të pa shëndetshme, pra ju mund të vendosni edhe një 'shprehi' për ta braktisë një shprehi tjetër, pra një shprehi për ta lënë. Natyrisht ju mund të keni disa prioritete dhe secila prej tyre ka kategoritë e veta dhe secila prej kategorive ka shprehitë e veta.
-Psh pak a shumë një skemë kështu:
+Nï¿½ pamundï¿½si pï¿½r me e gjet ose kostumizu njï¿½ aplikacion i cili kish me mi plotï¿½su kï¿½rkesat, vendosa me e ba nja vet. Aplikacioni ï¿½shtï¿½ nï¿½ ndï¿½rtim e sipï¿½r mirï¿½po disa dallime prej aplikacioneve tjera veï¿½ janï¿½ realizu.
+E para prej tyre ï¿½shtï¿½ qï¿½ aplikacioni ju ndihmon me u organizu dhe mendu nï¿½ nivel tï¿½ prioriteteve, kï¿½tï¿½ e reprezentojnï¿½ edhe tri shkronjat e para nï¿½ emrin 'priush' (njï¿½ emï¿½r jo edhe aq kreativ, nï¿½ pï¿½rgjithï¿½si nï¿½ krejt aplikacionin kam qene jo kreativ te emï¿½rtimet). Pastaj secili prioritet duhet t'i ketï¿½ degï¿½t e veta qï¿½ nï¿½ aplikacion ju kam thanï¿½ subcatagories(ju thash pï¿½r 'kreativitetin' me emrat) dhe secila subcategory duhet tï¿½ ketï¿½ shprehi/habits qï¿½ nï¿½ app ju kam thanï¿½ 'acts' por qe ne editimet e radhï¿½s do te ju them habits.
+Kjo natyrisht e komplikon aplikacionin por i ka edhe pï¿½rparï¿½sitï¿½ e veta, siï¿½ e thash lart fillimisht ju mï¿½son te mendoni dhe te organizoheni nï¿½ nivel tï¿½ prioriteteve, gjithsesi ju duhet tï¿½ keni disa prioritete nï¿½ jetï¿½ ose edhe disa pï¿½r njï¿½ periudhï¿½ tï¿½ caktuar, dhe gjithsesi ti duhet tï¿½ kesh disa shprehi qï¿½ asociojnï¿½ me ato prioritet. P.sh. nï¿½se shï¿½ndeti apo tï¿½ jetuarit njï¿½ jetï¿½ tï¿½ shï¿½ndetshme ï¿½shtï¿½ prioritet i yti, atï¿½here tï¿½ ushqyerit shï¿½ndetshï¿½m, aktivitetet fizike dhe gjumi i shï¿½ndoshï¿½ mund tï¿½ jenï¿½ tri ndarjet e ketij prioriteti. Pastaj, te kategoria e te ushqyerit shï¿½ndetshï¿½m mund tï¿½ vinï¿½ shprehitï¿½: kaftjall i shï¿½ndetshï¿½m, drek e shï¿½ndetshme apo edhe MOS me hï¿½ngï¿½r njï¿½ dark tï¿½ pa shï¿½ndetshme, pra ju mund tï¿½ vendosni edhe njï¿½ 'shprehi' pï¿½r ta braktisï¿½ njï¿½ shprehi tjetï¿½r, pra njï¿½ shprehi pï¿½r ta lï¿½nï¿½. Natyrisht ju mund tï¿½ keni disa prioritete dhe secila prej tyre ka kategoritï¿½ e veta dhe secila prej kategorive ka shprehitï¿½ e veta.
+Psh pak a shumï¿½ njï¿½ skemï¿½ kï¿½shtu:
 
 Prioritetet:
 
 1. Familja,
-2. Shëndeti,
+2. Shï¿½ndeti,
 3. Karriera
 
-Pastaj kategoritë te prioriteti shëndeti:
+Pastaj kategoritï¿½ te prioriteti shï¿½ndeti:
 
-2.1. Ushqim i shëndetshëm,
-2.2 Gjumë i shëndetshëm,
+2.1. Ushqim i shï¿½ndetshï¿½m,
+2.2 Gjumï¿½ i shï¿½ndetshï¿½m,
 2.3. Aktivitetet fizike
 
-Pastaj shprehitë nga kategoria ushqim i shëndetshëm:
+Pastaj shprehitï¿½ nga kategoria ushqim i shï¿½ndetshï¿½m:
 
-2.1.1. Kaftjall i shëndetshëm,
-2.1.2 Drekë e shëndetshme,
-2.1.3 JO një darkë e pa shëndetshme
+2.1.1. Kaftjall i shï¿½ndetshï¿½m,
+2.1.2 Drekï¿½ e shï¿½ndetshme,
+2.1.3 JO njï¿½ darkï¿½ e pa shï¿½ndetshme
 
-Një përparësi tjetër e këtij degëzimi në shikim të parë të komplikuar e tepruar është se pastaj ju mund të nxirrni raporte veç për një prioritet, pra mund të shihni si jeni duke ecur me shprehitë e vetëm një prioriteti apo edhe vetëm një nënkategorie përveç tjerash.
+Njï¿½ pï¿½rparï¿½si tjetï¿½r e kï¿½tij degï¿½zimi nï¿½ shikim tï¿½ parï¿½ tï¿½ komplikuar e tepruar ï¿½shtï¿½ se pastaj ju mund tï¿½ nxirrni raporte veï¿½ pï¿½r njï¿½ prioritet, pra mund tï¿½ shihni si jeni duke ecur me shprehitï¿½ e vetï¿½m njï¿½ prioriteti apo edhe vetï¿½m njï¿½ nï¿½nkategorie pï¿½rveï¿½ tjerash.
 
-Verejtje: Aplikacioni është ende në versionin fillestar
+Verejtje: Aplikacioni ï¿½shtï¿½ ende nï¿½ versionin fillestar
 
 ## Kontakti
 
 albanmurturi@gmail.com
-
-## License
-
-This is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
