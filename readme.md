@@ -42,3 +42,5 @@ Verejtje: Aplikacioni �sht� ende n� versionin fillestar
 ## Kontakti
 
 albanmurturi@gmail.com
+
+tets commit
